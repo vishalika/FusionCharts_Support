@@ -62,12 +62,7 @@
 
             $jsonEncodedData = json_encode($arrData);
 
-    /*Create an object for the column chart using the FusionCharts PHP class constructor. Syntax for the constructor is ` FusionCharts("type of chart", "unique chart id", width of the chart, height of the chart, "div id to render the chart", "data format", "data source")`. Because we are using JSON data to render the chart, the data format will be `json`. The variable `$jsonEncodeData` holds all the JSON data for the chart, and will be passed as the value for the data source parameter of the constructor.*/
-
-         
-
-            // Render the chart
-       
+   
             // Close the database connection
             $dbhandle->close();
          }
