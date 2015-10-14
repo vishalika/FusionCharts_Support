@@ -5,9 +5,9 @@ Also, you should have a bit knowledge of MVC pattern.
 
 Steps to create simple chart using FusionChart XT Evaluation files with cakePHP:
 
-Step-1: Download trail version of FusionCharts Suite XT from its official web site. URL: http://www.fusioncharts.com/download/
+Step-1: Download trial version of FusionCharts Suite XT from its official web site. URL: http://www.fusioncharts.com/download/
  
-Step-2: Copy “fusioncharts.js“ file with all dependency JavaScript files on webroot/js folder.
+Step-2: Copy â€œfusioncharts.jsâ€œ file with all dependency JavaScript files on webroot/js folder.
 
 Step-3: Download the PHP wrapper file of FusionCharts from this link: http://www.fusioncharts.com/php-charts/
 
